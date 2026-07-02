@@ -1,0 +1,5 @@
+{
+  "python.analysis.extraPaths": [
+    "./University_Campus_Guide/campus_guide"
+  ]
+}
